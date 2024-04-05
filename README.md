@@ -1,6 +1,6 @@
 ### Hi everybody! I am a new (and improving) Software Developer motivated to innovate, create, and thrive in this workspace!
 
-⭐⭐⭐😎
+😎
 
 <!--
 **brax-bert/brax-bert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
