@@ -1,4 +1,4 @@
-### Hi everybody! I am a new (and improving) Software Developer motivated to innovate, create, and thrive in this workspace!
+### Hi everybody! I am a Software Developer motivated to innovate, create, and thrive.
 
 😎
 
